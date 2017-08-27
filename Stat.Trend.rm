@@ -18,9 +18,7 @@ in
 , documentation = [
 Documentation.Name =  " fnRStat.Trend
 ", Documentation.Description = " R-function for trend (fitted(lm) and forecast (predict(lm)
-" , Documentation.LongDescription = " R-function for trend (fitted(lm) and forecast (predict(lm)
 ", Documentation.Category = " R Statistical Functions
-", Documentation.Source = " local
 ", Documentation.Author = " Imke Feldmann: www.TheBIccountant.com
 ", Documentation.Examples = {[Description =  " 1) Choose table with actual figures 2) choose column holding the forecast periods
 " , Code = " Check this blogpost explaining how it works: http://wp.me/p6lgsG-Fd
