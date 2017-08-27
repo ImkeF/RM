@@ -9,7 +9,7 @@ let
 
     ConvertedPath = Text.Replace(path, "\", "/"),
 
-    RScript = R.Execute("write.csv(dataset,""&ConvertedPath&"") 
+    RScript = R.Execute("write.csv(dataset,"&ConvertedPath&") 
 
                          output <- dataset
 
