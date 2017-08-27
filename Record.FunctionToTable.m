@@ -16,9 +16,7 @@ in
 , documentation = [
 Documentation.Name =  " fnRecordFunctionsToTable
 ", Documentation.Description = " Transforms the function-record to a searcheable table showing metadata
-" , Documentation.LongDescription = " Transforms the function-record to a searcheable table showing metadata
 ", Documentation.Category = " Record.Transformation
-", Documentation.Source = " local
 ", Documentation.Author = " Imke Feldmann: www.TheBIccountant.com
 ", Documentation.Examples = {[Description =  " 1) Reference function-record as parameter
 " , Code = " Check this blogpost explaining how it works: http://wp.me/p6lgsG-Gx
